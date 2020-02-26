@@ -1,0 +1,6 @@
+C:\Users\Eugene\source\repos\String.Reverse\String.Reverse\bin\Debug\String.Reverse.exe.config
+C:\Users\Eugene\source\repos\String.Reverse\String.Reverse\bin\Debug\String.Reverse.exe
+C:\Users\Eugene\source\repos\String.Reverse\String.Reverse\bin\Debug\String.Reverse.pdb
+C:\Users\Eugene\source\repos\String.Reverse\String.Reverse\obj\Debug\String.Reverse.csprojAssemblyReference.cache
+C:\Users\Eugene\source\repos\String.Reverse\String.Reverse\obj\Debug\String.Reverse.exe
+C:\Users\Eugene\source\repos\String.Reverse\String.Reverse\obj\Debug\String.Reverse.pdb
